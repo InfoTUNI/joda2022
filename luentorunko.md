@@ -105,10 +105,6 @@ Kolmannen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/InfoTU
 
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
 
-<!--
-
--->
-
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
