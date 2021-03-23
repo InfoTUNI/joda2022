@@ -100,7 +100,7 @@ piirteiden jalostaminen (ks.
 [feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
 luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/))
 
-Kolmannen luennon esitysmateriaali [Jupyter-muistiona](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento03.ipynb).
+Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento03.ipynb).
 
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
 
