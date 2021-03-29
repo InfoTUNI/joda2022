@@ -74,20 +74,21 @@ Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/joda
 -->
 
 <!--
+-->
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
-Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
+Käy ennen luentoa läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb).
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
 Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2020/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://InfoTUNI/joda2021/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
-Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla. Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
+Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
+Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
 
-Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento04.ipynb).
+Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento04.ipynb).
 
-Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
--->
+Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
 
 ## Luentoviikko 3: Koneoppimisen periaatteet
 
