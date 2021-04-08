@@ -7,7 +7,7 @@ title: Suorittaminen / JODA 2021
 
 Opintojaksosta voi kerätä yhteensä 30 pistettä.
 Oppimispäiväkirjasta on tarjolla 18 pistettä ja
-harjoitustyöstä 12 pistettä.
+harjoitustyöstä 12 pistettä. Katso [pisteytyksen yksityiskohdat](#pisteytys).
 
 Suorittaminen edellyttää yhteensä 15 pisteen keräämistä.
 
@@ -36,3 +36,21 @@ Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 Demokoodi voi olla valmistakin. Mukauta ja kommentoi kuitenkin koodia siten, että se demoaa viikon aikana oppimaasi. Lähdeviittaus on paikallaan myös koodin tapauksessa.
 
 Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 14. toukokuuta 2021. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2021/harjoitustyo/#loppuraportti).
+
+## Pisteytys
+
+Harjoitustyöstä on jaossa yhteensä 18 pistettä. 12 harjoitustyöpistettä vaikuttaa suoraan arvosanaan.
+
+Ylittävät pisteet korvaavat huonosti menneen kohdan oppimispäiväkirjan arvostelussa, joka muodostuu kolmesta kuuden (6) pisteen kokonaisuudesta (kattavuus ja oikeellisuus, soveltava vastaan luettelomainen, pohdiskelu ja reflektointi).
+
+## Arvosana
+
+Pisteitä        | Arvosana           |
+| ------------- |:-------------:|
+| 27 tai enemmän| 5 |
+| 24-26      | 4      |
+| 21-23 | 3      |
+| 18-20 | 2      |
+| 15-17 | 1      |
+
+Hyväksytty suoritus edellyttää lisäksi vähintään yhdeksän (9) pisteen keräämistä oppimispäiväkirjasta.
