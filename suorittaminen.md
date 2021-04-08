@@ -45,12 +45,12 @@ Ylittävät pisteet korvaavat huonosti menneen kohdan oppimispäiväkirjan arvos
 
 ## Arvosana
 
-Pisteitä        | Arvosana           |
-| ------------- |:-------------:|
-| 27 tai enemmän| 5 |
-| 24-26      | 4      |
-| 21-23 | 3      |
-| 18-20 | 2      |
-| 15-17 | 1      |
+|Pisteitä        | Arvosana           |
+| -------------  |-------------|
+| 27 tai enemmän | 5 |
+| 24-26          | 4      |
+| 21-23          | 3      |
+| 18-20          | 2      |
+| 15-17          | 1      |
 
 Hyväksytty suoritus edellyttää lisäksi vähintään yhdeksän (9) pisteen keräämistä oppimispäiväkirjasta.
