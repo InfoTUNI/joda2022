@@ -77,7 +77,7 @@ Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/joda
 -->
 ## Luentoviikko 5: Vierailuluento luonnollisen kielen analyysistä
 
-Solitan Data engineer ja tietojohtamisen alumni Teemu Mikkonen vieraili puhumassa luonnolisen kielen analyysistä ja kertoi samalla työtehtävistään Solitan datayksikössä.
+Solitan Data engineer ja tietojohtamisen alumni Teemu Mikkonen vieraili puhumassa luonnolisen kielen analyysistä ja kertoi samalla työtehtävistään Solitan datayksikössä. Solitan Timo Lehtonen oli mukana keskustelemassa arjesta datatieteen maailmassa.
 
 Vierailuluennon [Jupyter-työkirja on saatavilla verkossa].
 
