@@ -80,6 +80,7 @@ Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/joda
 Solitan Data engineer ja tietojohtamisen alumni Teemu Mikkonen vieraili puhumassa luonnolisen kielen analyysistä ja kertoi samalla työtehtävistään Solitan datayksikössä. Solitan Timo Lehtonen oli mukana keskustelemassa arjesta datatieteen maailmassa.
 
 Vierailuluennon [Jupyter-työkirja on saatavilla verkossa](https://github.com/TeemuMikkonen/JODA-NLP).
+Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
