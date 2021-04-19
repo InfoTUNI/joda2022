@@ -59,6 +59,8 @@ Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/joda
 -->
 
 <!--
+-->
+
 ## Luentoviikko 5: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
@@ -68,13 +70,11 @@ Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images
 ryvästäminen (ks. [k-means-clustering](https://www.datascience.com/blog/k-means-clustering)),
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
-Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento05.ipynb).
+Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento05.ipynb).
 
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
--->
 
-<!--
--->
+
 ## Luentoviikko 5: Vierailuluento luonnollisen kielen analyysistä
 
 Solitan Data engineer ja tietojohtamisen alumni Teemu Mikkonen vieraili puhumassa luonnolisen kielen analyysistä ja kertoi samalla työtehtävistään Solitan datayksikössä. Solitan Timo Lehtonen oli mukana keskustelemassa arjesta datatieteen maailmassa.
