@@ -72,7 +72,8 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 
 Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento05.ipynb).
 
-Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
+<!--
+Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).-->
 
 
 ## Luentoviikko 5: Vierailuluento luonnollisen kielen analyysistä
