@@ -61,7 +61,7 @@ Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/joda
 <!--
 -->
 
-## Luentoviikko 5: Ohjaamaton koneoppiminen
+## Luentoviikko 6: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
 Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images/dCm55z)),
