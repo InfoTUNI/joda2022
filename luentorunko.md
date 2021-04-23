@@ -45,16 +45,16 @@ Pääsiäistauon jälkeen **tiistaina 21. huhtikuuta** on vuorossa JODAn kevää
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento07.ipynb).
 -->
 
-<!--
 ## Luentoviikko 6: Visuaalinen analytiikka
 
 Lue ennen luentoa: [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) <br/>
 Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
-Viimeisellä varsinaisella luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
+Viimeisellä luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
-Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento06.ipynb).
+Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021/blob/master/luentomuistio/luento07.ipynb).
 
+<!--
 [Koodiklinikalla](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%206%20-%20Data%20Visualization.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
 -->
 
