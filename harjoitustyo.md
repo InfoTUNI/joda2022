@@ -71,7 +71,7 @@ Staattinen raportti voi olla tekstiä ja kuvia yhdistelevä tuotos.
 Vuorovaikutteisen raportin avulla käyttäjä voi myös itse perehtyä tekemääsi analyysiin.
 Suosittelujärjestelmä tai Airbnb-asunnon hinnan arviointi käyttäjän syöttämien ominaisuuksien perusteella määrittelevä sovellus (vrt. [blok.ai](https://blok.ai/asunnon-hinta-arvio/)) ovat esimerkkejä ohjaavasta analytiikasta.
 
-**Täsmennys 23.4.2021** Datan kuvaileminen -vaiheen kohta Vuorovaikutteinen Web-kojelauta ja Toimeenpano-vaiheen Vuorovaikutteinen raportti edellyttävät molemmat *loppukäyttäjälle* tarkoitetun “sovelluksen” kehittämistä. Esimerkiksi [Streamlit.io](https://streamlit.io/) tarjoaa varsin näppärät välineet moisen sovelluksen toteuttamiseen.
+<a name="tasmennys-vuorovaikutteisuus"></a> **Täsmennys 23.4.2021** Datan kuvaileminen -vaiheen kohta Vuorovaikutteinen Web-kojelauta ja Toimeenpano-vaiheen Vuorovaikutteinen raportti edellyttävät molemmat *loppukäyttäjälle* tarkoitetun “sovelluksen” kehittämistä. Esimerkiksi [Streamlit.io](https://streamlit.io/) tarjoaa varsin näppärät välineet moisen sovelluksen toteuttamiseen.
 Jupyter Notebook -pohjainen ratkaisu on ok, jos se on mietitty kokonaisuudessaan loppukäyttäjän sovellukseksi. Sovelluksessa syöte annetaan  lomakekomponenteilla ja visualisoinnit on toteutettu  vuorovaikutteisena esimerkiksi D3.js- tai vastaavalla kirjastolla, joka mahdollistavat esimerkiksi aineiston järjestämisen ja suodattamisen. Vrt. https://share.streamlit.io/tylerjrichards/streamlit_goodreads_app/books.py tai  https://dc-js.github.io/dc.js/.
 
 ## Pisteiden kerääminen
