@@ -45,7 +45,7 @@ Pääsiäistauon jälkeen **tiistaina 21. huhtikuuta** on vuorossa JODAn kevää
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento07.ipynb).
 -->
 
-## Luentoviikko 6: Visuaalinen analytiikka
+## Luentoviikko 7: Visuaalinen analytiikka
 
 Lue ennen luentoa: [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) <br/>
 Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
