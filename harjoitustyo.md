@@ -4,7 +4,13 @@ title: Harjoitustyöohje / JODA 2021
 year: 2021
 ---
 
-**Ohje viimeistellään ensimmäisten luentoviikkojen aikana.** Ilmoita epäjohdonmukaisuuksista Jukalle, vaikka Slack-kanavalla.
+<!-- **Ohje viimeistellään ensimmäisten luentoviikkojen aikana.** -->
+Ilmoita harjoitustyöohjeen epäjohdonmukaisuuksista Jukalle, vaikkapa Slack-kanavalla.
+
+Täsmennettävä kevään 2022 toteutuskerralle:
+
+* Harjoitustyö tehdään Python-kielellä ja siinä hyödynnetään Pandas-kirjastoa ja muita Pythonin datatiedepaketteja.
+* Jokainen kuvatuista vaiheesta on toteutettava vähintään yhden pisteen laajuudessa.
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet. Voit valita aiheen ja datalähteen vapaasti.
 Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2021/harjoitustyo/) toteutuksesta.
