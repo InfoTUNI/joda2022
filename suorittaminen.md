@@ -3,6 +3,11 @@ layout: default
 title: Suorittaminen / JODA 2021
 ---
 
+TODO:
+
+* Varmista että kaikki suorittamiseen liittyvät päivämäärät ovat näkyvissä tässä dokumentissa. Nyt puuttuu tieto harjoitustyön vaiheiden päivämäärästä.
+* Tästä dokumentista on syytä tehdä indeksisivu, josta käsin voi helposti siirtyä työstämään opintojakson suoritusvaatimuksia annetun aikataulun mukaisesti.
+
 # Suorittaminen
 
 Opintojaksosta voi kerätä yhteensä 30 pistettä.
