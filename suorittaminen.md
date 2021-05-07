@@ -40,7 +40,7 @@ Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 
 Demokoodi voi olla valmistakin. Mukauta ja kommentoi kuitenkin koodia siten, että se demoaa viikon aikana oppimaasi. Lähdeviittaus on paikallaan myös koodin tapauksessa.
 
-Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 14. toukokuuta 2021. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2021/harjoitustyo/#loppuraportti).
+Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 14. toukokuuta 2021. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://infotuni.github.io/joda2021/harjoitustyo/#loppuraportti).
 
 ## Pisteytys
 
