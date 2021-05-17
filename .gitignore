@@ -8,6 +8,7 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+.ipynb_checkpoints
 koodiesimerkit/ipython/VENV/*
 koodiesimerkit/explore/VENV/*
 koodiesimerkit/explore/data/*
