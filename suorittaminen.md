@@ -28,7 +28,7 @@ Oppimispäiväkirja karttuu noin yhdellä-kahdella A4-sivulla viikossa.
 
 Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook) ja jaat sen esimerkiksi Githubissa, Tampereen yliopiston Gitlabissa tai suoraan Google Colabissa.
 
-**Kerro dokumentin osoite Moodlessa viimeistään perjantaina 16. huhtikuuta kello 17.**
+**Kerro [oppimispäiväkirjan osoite Moodlessa](https://moodle.tuni.fi/mod/assign/view.php?id=1119385) viimeistään torstaina 1. heinäkuuta kello 17.**
 
 Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 

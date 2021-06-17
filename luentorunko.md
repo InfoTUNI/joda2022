@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Luentorunko / JODA 2021
+title: Luentorunko / JODA kesä 2021
 year: 2021
 ---
 
