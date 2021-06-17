@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Harjoitustyöohje / JODA 2021
+title: Harjoitustyöohje / JODA kesä 2021
 year: 2021
 ---
 
@@ -9,15 +9,16 @@ Ilmoita harjoitustyöohjeen epäjohdonmukaisuuksista Jukalle, vaikkapa Slack-kan
 
 Täsmennettävä kevään 2022 toteutuskerralle:
 
-* Harjoitustyö tehdään Python-kielellä ja siinä hyödynnetään Pandas-kirjastoa ja muita Pythonin datatiedepaketteja.
-* Jokainen kuvatuista vaiheesta on toteutettava vähintään yhden pisteen laajuudessa.
-
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet. Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2021/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://infotuni.github.io/joda2021summer/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analyysi datatieteen menetelmin.
-Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://github.com/InfoTUNI/joda2021/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
+Voit vaikkapa toteuttaa hintaennustimen [Airbnb-esimerkkianalyysiä](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
+
+**Harjoitustyö tehdään Python-kielellä ja siinä hyödynnetään Pandas-kirjastoa ja muita Pythonin datatiedepaketteja.**
 
 ## Vaiheet ja pisteet
+
+**Jokainen kuvatuista vaiheista on toteutettava vähintään yhden pisteen laajuudessa.**
 
 | Vaihe  | 1 piste  | 2 pistettä   | 3 pistettä  |
 |--------|---|---|---|
@@ -83,7 +84,7 @@ Jupyter Notebook -pohjainen ratkaisu on ok, jos se on mietitty kokonaisuudessaan
 ## Pisteiden kerääminen
 
 Pisteiden kerääminen tapahtuu julkaisemalla kunkin vaiheen kuvaus
-toteutuskerran Slackissä **torstaihin 29.4 kello 17 mennessä**.
+toteutuskerran Slackissä **maanantaihin 30.8. kello 17 mennessä**.
 Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja
 palautus on tehty annetun aikataulun puitteissa.
 
@@ -114,7 +115,7 @@ Harjoitustyöt eivät saa olla identtisiä.
 ## Loppuraportti
 
 Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen viesti
-Moodlen palautusautomaatilla **perjantaihin 14.5. kello 17 mennessä**.
+Moodlen palautusautomaatilla **maanantaihin 30.8. kello 17 mennessä**.
 
 <blockquote>
   <p>
@@ -123,14 +124,14 @@ Moodlen palautusautomaatilla **perjantaihin 14.5. kello 17 mennessä**.
     Sähköposti: <a href="mailto:jstat@trolleywatch.org">jstat@trolleywatch.org</a>
   </p>
   <p>Harjoitustyöni aihe: Julkisen liikenteen vaikutus Airbnb-asunnon hintaan</p>
-  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatuni2021-H654321.zip).</p>
+  <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatuni2021summer-H654321.zip).</p>
 
 <p>Oppimispäiväkirjani löytyy osoitteesta:
-<a href="http://blog.fi/jamesstation/jodatuni2021">http://blog.fi/jamesstation/jodatuni2021</a>.</p>
+<a href="http://blog.fi/jamesstation/jodatuni2021">http://blog.fi/jamesstation/jodatuni2021summer</a>.</p>
 
 </blockquote>
 
-Palautettavan zip-paketin (jodatuni2021-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatuni2021-H654321 (korvaa lukusarja H654321 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
+Palautettavan zip-paketin (jodatuni2021summer-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatuni2021summer-H654321 (korvaa lukusarja H654321 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Liitä mukaan tiivis käyttöönotto-ohje.
 
 <!--
