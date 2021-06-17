@@ -9,7 +9,7 @@ TODO: Käy läpi aihetunnisteet #jodatuni ja #jodatut Twitterissä ja
 päivitä kehityskohteet viikkokohtaisiksi TODO-merkinnöiksi
 
 -->
-Tämä on Johdanto datatieteeseen -opintojakson kevään 2021 toteutuskerran luentorunko.
+Tämä on Johdanto datatieteeseen -opintojakson kesän 2021 toteutuskerran luentorunko.
 
 <!-- Vastaisen varalle:
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018/luentopaivakirja).
@@ -24,7 +24,7 @@ Toteutuskerran käytössä on
 
 <!--
 Arho Suomisen [luentallenteet vuodelta 2019](https://echo360.org.uk/section/b064b01b-b271-40e7-9549-4569f0e63a7f/home) löytyvät poistuvasta Echo360-palvelusta.-->
-[Vuoden 2020 luentotallenteet](https://panopto.tuni.fi/Panopto/Pages/Sessions/List.aspx?folderID=6005b1ad-b84d-4b14-88fb-ab7300b7b81d) löytyvät Tampereen yliopiston Panopto-palvelusta. Vuoden 2021 luennot järjestetään Zoomissa ja tallennetaan Panoptoon.
+[Kevään 2021 luentotallenteet](https://panopto.tuni.fi/Panopto/Pages/Sessions/List.aspx?folderID=6005b1ad-b84d-4b14-88fb-ab7300b7b81d) löytyvät Tampereen yliopiston Panopto-palvelusta. <!-- Vuoden 2021 luennot järjestetään Zoomissa ja tallennetaan Panoptoon.-->
 
 Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteella [#jodatuni](https://twitter.com/search?q=%23jodatuni&f=live).
 

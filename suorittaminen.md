@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Suorittaminen / JODA 2021
+title: Suorittaminen / JODA kesä 2021
 ---
 
-TODO:
+** TODO:
 
 * Varmista että kaikki suorittamiseen liittyvät päivämäärät ovat näkyvissä tässä dokumentissa. Nyt puuttuu tieto harjoitustyön vaiheiden päivämäärästä.
-* Tästä dokumentista on syytä tehdä indeksisivu, josta käsin voi helposti siirtyä työstämään opintojakson suoritusvaatimuksia annetun aikataulun mukaisesti.
+* Tästä dokumentista on syytä tehdä indeksisivu, josta käsin voi helposti siirtyä työstämään opintojakson suoritusvaatimuksia annetun aikataulun mukaisesti.**
 
 # Suorittaminen
 
@@ -24,9 +24,9 @@ Tiivis ohje oppimispäiväkirjan kirjoittamiseen:
 4. Listaa yhdestä kolmeen kehityskohdetta tai flippausvinkkiä luentoviikolle.
 5. Kokoa noin kymmenen koodirivin demo viikon aikana oppimastasi.
 
-Oppimispäiväkirja karttuu noin yhdellä A4-sivulla viikossa.
+Oppimispäiväkirja karttuu noin yhdellä-kahdella A4-sivulla viikossa.
 
-Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook).
+Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook) ja jaat sen esimerkiksi Githubissa, Tampereen yliopiston Gitlabissa tai suoraan Google Colabissa.
 
 **Kerro dokumentin osoite Moodlessa viimeistään perjantaina 16. huhtikuuta kello 17.**
 
@@ -38,13 +38,15 @@ Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 
 * **Pohdiskelu ja reflektointi:** Kiitettävässä oppimispäiväkirjassa opiskelija peilaa viikon teemoja omaan osaamiseen ja pohtii teemoja myös harjoitustyön näkökulmasta. Välttävässä oppimispäiväkirjassa asiat on esitetty annettuina ja irrallisina toteamuksina.
 
-Demokoodi voi olla valmistakin. Mukauta ja kommentoi kuitenkin koodia siten, että se demoaa viikon aikana oppimaasi. Lähdeviittaus on paikallaan myös koodin tapauksessa.
+Demokoodi voi olla valmistakin. Mukauta ja kommentoi kuitenkin koodia siten, että se demoaa viikon aikana oppimaasi. Pyri varmistamaan, että koodin tuottamat listaukset ja visualisoinnit ovat oppimipäiväkirjan tarkastajan nähtävissä. Lähdeviittaus on paikallaan myös koodin tapauksessa.
 
-Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 14. toukokuuta 2021. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://infotuni.github.io/joda2021/harjoitustyo/#loppuraportti).
+**Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään maanantaina 30. elokuuta 2021 kello 17.** Katso ohjeet palautukseen [harjoitustyöohjeesta](https://infotuni.github.io/joda2021summer/harjoitustyo/#loppuraportti).
 
 ## Pisteytys
 
 Harjoitustyöstä on jaossa yhteensä 18 pistettä. 12 harjoitustyöpistettä vaikuttaa suoraan arvosanaan.
+
+**Harjoitustyön vaiheittaiset toteutukset on palautettava Slackiin viimeistään maanantaina 30.8. kello 17 harjoitustyöhjeen mukaisesti.**
 
 Ylittävät pisteet korvaavat huonosti menneen kohdan oppimispäiväkirjan arvostelussa, joka muodostuu kolmesta kuuden (6) pisteen kokonaisuudesta (kattavuus ja oikeellisuus, soveltava vastaan luettelomainen, pohdiskelu ja reflektointi).
 
