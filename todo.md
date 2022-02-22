@@ -1,6 +1,57 @@
+This document is used to make notes on the future development of Johdanto datatieteeseen (Introduction to data science). We will actively develop the course
+
 # TODO:
 
-Oppimateriaalivinkit:
+
+Datasets:
+
+* How 
+
+* **StackOverflow**
+* Documenting the datasets used in the demos
+* Airbnb
+* [Wolt dataset related to a job application](https://github.com/woltapp/data-science-summer-intern-2022) 
+* Amazon (scraping)
+
+Demos:
+
+* Python module: JODA datasets 
+
+* Template notebook for a simple classifier/prediction
+ * Including data exploration
+ * Including diagnosis of the results
+* Exploratory analysis
+
+
+* Session 1
+	* Data: Credit dataset 
+	* Pandas demo
+	* Document the data source
+	* Comparing distributions: testing something between credit card brands? Distributions of stuff bought more expensive?
+*  	Session 2
+ 	* How to make the demo more straightforward?
+ 	* Splitting to basic (BeautifulSoup + requests) and a "bonus" with Scrapy    	
+*  Session 3
+ * Credit dataset
+ * Continuingwith the   	 	
+* Session 4
+ * Using the demo to introduce the project work, perhaps in the future branching a project repository from TUNI Gitlab
+* Session 5
+ * What to cover instead of PCA?
+ * NLP - Word2Vec?
+* Session 6
+ * Javascript libraries for network viz?		
+
+
+Learning environment:
+
+(This year, we will continue with Slack, Github & Moodle (and SISU))
+
+* 
+
+
+
+Potential learning material:
 
 * automatetheboringstuff.com
 * (Todoistissa)
