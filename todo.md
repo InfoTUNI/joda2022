@@ -2,16 +2,24 @@ This document is used to make notes on the future development of Johdanto datati
 
 # TODO:
 
+* Add learning objectives for each week
+* Add key takeaways / conclusions for each week
+
+--
 
 Datasets:
 
 * How 
 
 * **StackOverflow**
+
+* GapMinder 
 * Documenting the datasets used in the demos
 * Airbnb
 * [Wolt dataset related to a job application](https://github.com/woltapp/data-science-summer-intern-2022) 
+* [Amazon reviews](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento03.ipynb)
 * Amazon (scraping)
+* [311 Service Requests Pitt](https://www.kaggle.com/yoghurtpatil/311-service-requests-pitt)
 
 Demos:
 
@@ -22,6 +30,23 @@ Demos:
  * Including diagnosis of the results
 * Exploratory analysis
 
+--
+
+* Lecture 2: 
+	* Switch the demo from an interactive casting to reading and cleaning data 
+	*  Data exploration - automatically or semi-automatically?
+* Lecture 3
+	*  Feature extraction demo
+		* Add different examples of feature extraction rather than an NLP-specific deep demo
+	* Visualizing the text-based features
+	* Spacy.io for sentiment analysis, noun phrases, and named entity recognition
+	* Simplyfy the loan status predictor from the lecture notebook (including siivoaData)
+* Lecture 6
+  * Clustering 
+  * Topic modeling 	
+
+
+--
 
 * Session 1
 	* Data: Credit dataset 
@@ -40,9 +65,7 @@ Demos:
  * What to cover instead of PCA?
  * NLP - Word2Vec?
 * Session 6
- * Javascript libraries for network viz?		
-
-
+ * Javascript libraries for network viz?	
 Learning environment:
 
 (This year, we will continue with Slack, Github & Moodle (and SISU))
