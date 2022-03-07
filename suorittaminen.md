@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Suorittaminen / JODA kesä 2021
+title: Suorittaminen / JODA 2022
 ---
 
-** TODO:
+### TODO:
 
 * Varmista että kaikki suorittamiseen liittyvät päivämäärät ovat näkyvissä tässä dokumentissa. Nyt puuttuu tieto harjoitustyön vaiheiden päivämäärästä.
 * Tästä dokumentista on syytä tehdä indeksisivu, josta käsin voi helposti siirtyä työstämään opintojakson suoritusvaatimuksia annetun aikataulun mukaisesti.**
@@ -22,13 +22,13 @@ Tiivis ohje oppimispäiväkirjan kirjoittamiseen:
 2. Tiivistä jokaisen luentoviikon keskeiset asiat tekstiksi.
 3. Kirjaa lisäksi ylös viisi oivallusta tai tärkeintä oppimaasi asiaa erilliseksi listaksi.
 4. Listaa yhdestä kolmeen kehityskohdetta tai flippausvinkkiä luentoviikolle.
-5. Kokoa noin kymmenen koodirivin demo viikon aikana oppimastasi.
+5. Kokoa noin kymmenen koodirivin demo viikon aikana oppimastasi. 
 
 Oppimispäiväkirja karttuu noin yhdellä-kahdella A4-sivulla viikossa.
 
-Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook) ja jaat sen esimerkiksi Githubissa, Tampereen yliopiston Gitlabissa tai suoraan Google Colabissa.
+Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook) ja jaat sen esimerkiksi Githubissa, [Tampereen yliopiston Gitlabissa](https://course-gitlab.tuni.fi/) tai suoraan Google Colabissa.
 
-**Kerro [oppimispäiväkirjan osoite Moodlessa](https://moodle.tuni.fi/mod/assign/view.php?id=1119385) viimeistään torstaina 1. heinäkuuta kello 17.**
+**Kerro [oppimispäiväkirjan osoite Moodlessa](https://moodle.tuni.fi/mod/assign/view.php?id=1628545) viimeistään tiistaina 12. huhtikuuta kello 17.**
 
 Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 
