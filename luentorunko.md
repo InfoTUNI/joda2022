@@ -144,11 +144,21 @@ Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/InfoT
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
 
+Tulossa:
+
+* Luentoviikko 2: Datan kerääminen ja jalostaminen
+* Luentoviikko 3: Koneoppimisen periaatteet
+* Luentoviikko 4: Harjoitustyöhön tutustuminen
+* Luentoviikko 5: Vierailuluento
+* Luentoviikko 6: Ohjaamaton koneoppiminen
+* Luentoviikko 7: Visuaalinen analytiikka
+
+
 <!-- Toiseen teknologiademoon pääsee [tästä]. -->
 
 ## Luentoviikko 1: Johdanto aihepiiriin ja suorittaminen
 
-Avausluento keskiviikkona 9. maaliskuuta kello 12-14 Zoomissa.
+Avausluento keskiviikkona 9. maaliskuuta kello 12-14 Sähkötalon salissa SA205 S3.
 [Suorittamisen](https://infotuni.github.io/joda2022/suorittaminen/) käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
