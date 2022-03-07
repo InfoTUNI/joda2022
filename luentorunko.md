@@ -1,26 +1,26 @@
 ---
 layout: default
-title: Luentorunko / JODA kesä 2021
-year: 2021
+title: Luentorunko / JODA 2022
+year: 2022
 ---
 
 <!--
 TODO: Käy läpi aihetunnisteet #jodatuni ja #jodatut Twitterissä ja
 päivitä kehityskohteet viikkokohtaisiksi TODO-merkinnöiksi
-
 -->
-Tämä on Johdanto datatieteeseen -opintojakson kesän 2021 toteutuskerran luentorunko.
+
+Tämä on Johdanto datatieteeseen -opintojakson kevään 2022 toteutuskerran luentorunko.
 
 <!-- Vastaisen varalle:
 Toteutus noudattelee [vuoden 2018 toteutuskertaa](https://jodatut.github.io/2018/luentopaivakirja).
 Alan dynaamisuudesta johtuen sisältöjä ja toteutustapaa kuitenkin kehitetään jatkuvasti.
 -->
 
-Toteutuskerta etenee alla olevan luentorungon mukaisesti, [vuoden 2020 toteutuskertaa](https://jodatut.github.io/2020/luentopaivakirja/) iteratiivisesti kehittäen.
+Toteutuskerta etenee alla olevan luentorungon mukaisesti, [vuoden 2021 toteutuskertaa](https://infotuni.github.io/joda2021) iteratiivisesti kehittäen.
 <!--  Alla näkyvät aiheet ovat viime vuoden toteutuksen mukaisia ja päivittyvät luentosarjan edetessä -->
 
 Toteutuskerran käytössä on
-[Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtOTY2ODc3MTQ2Mzg1LTVlMTVlMTIyZDk3YmUyZjJhYTk0Yzg5YzRhZjg0YTk3NWNmZDg0OGRmYWI0MjJjMWEyZTFkMmY5M2Q3ZTY5NDY).
+[Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/zt-14t10y6w5-atWPEX2hfQ4OYJXPOqSJDw).
 
 <!--
 Arho Suomisen [luentallenteet vuodelta 2019](https://echo360.org.uk/section/b064b01b-b271-40e7-9549-4569f0e63a7f/home) löytyvät poistuvasta Echo360-palvelusta.-->
@@ -45,6 +45,7 @@ Pääsiäistauon jälkeen **tiistaina 21. huhtikuuta** on vuorossa JODAn kevää
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento07.ipynb).
 -->
 
+<!--
 ## Luentoviikko 7: Visuaalinen analytiikka
 
 Lue ennen luentoa: [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) <br/>
@@ -53,14 +54,14 @@ Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta]
 Viimeisellä luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento07.ipynb).
-
+-->
 <!--
 [Koodiklinikalla](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%206%20-%20Data%20Visualization.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
 -->
 
 <!--
 -->
-
+<!--
 ## Luentoviikko 6: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
@@ -71,18 +72,20 @@ ryvästäminen (ks. [k-means-clustering](https://www.analyticsvidhya.com/blog/20
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
 Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento06.ipynb).
-
+-->
 <!--
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).-->
 
-
+<!--
 ## Luentoviikko 5: Vierailuluento luonnollisen kielen analyysistä
 
 Solitan Data engineer ja tietojohtamisen alumni Teemu Mikkonen vieraili puhumassa luonnolisen kielen analyysistä ja kertoi samalla työtehtävistään Solitan datayksikössä. Solitan Timo Lehtonen oli mukana keskustelemassa arjesta datatieteen maailmassa.
 
 Vierailuluennon [Jupyter-työkirja on saatavilla verkossa](https://github.com/TeemuMikkonen/JODA-NLP).
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
+-->
 
+<!--
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
 Käy ennen luentoa läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb).
@@ -97,7 +100,9 @@ Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöi
 Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento04.ipynb).
 
 Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
+-->
 
+<!--
 ## Luentoviikko 3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
@@ -112,7 +117,9 @@ luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.co
 Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento03.ipynb).
 
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
+-->
 
+<!--
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
@@ -133,6 +140,7 @@ datan ensitarkastelu Pythonilla
 Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento02.ipynb).
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/InfoTUNI/2021/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
+-->
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
 
@@ -140,8 +148,8 @@ Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/InfoT
 
 ## Luentoviikko 1: Johdanto aihepiiriin ja suorittaminen
 
-Avausluento tiistaina 9. maaliskuuta kello 11-13 Zoomissa.
-[Suorittamisen](https://infotuni.github.io/joda2021summer/suorittaminen/) käytännöt.
+Avausluento keskiviikkona 9. maaliskuuta kello 12-14 Zoomissa.
+[Suorittamisen](https://infotuni.github.io/joda2022/suorittaminen/) käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),
 [modern data scientist](https://www.schoolofdatascience.amsterdam/news/skills-need-become-modern-data-scientist/),
@@ -156,10 +164,11 @@ Datatieteen työvälineet:
 Dataa koneeseen:
 read_csv() & read_excel().
 
-Ensimmäisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento01.ipynb).
+Ensimmäisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento01.ipynb).
 
-Ensimmäisellä Koodiklinikalla käydään läpi Pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
+Ensimmäisellä Koodiklinikalla käydään läpi Pandasin perusteita sekä eri kehitysympäristöjä: [Session 1 - Analysing Transaction Data](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%201%20-%20Analysis%20of%20Transactions.ipynb).
+
 <!--
 Teknologiademoon pääsee [tästä](https://jodatut.github.io/2019/Datatiede-perusteet/). Echo360 - Exercise Session Video Recording: https://echo360.org.uk/section/6c32e7c7-bf87-4001-a2b2-0edee0232b0b/public -->
 
-Liity myös opintojakson [Slack-kanavalle](https://join.slack.com/t/jodatut/shared_invite/enQtOTY2ODc3MTQ2Mzg1LTVlMTVlMTIyZDk3YmUyZjJhYTk0Yzg5YzRhZjg0YTk3NWNmZDg0OGRmYWI0MjJjMWEyZTFkMmY5M2Q3ZTY5NDY).
+Liity myös opintojakson [Slack-kanavalle](https://join.slack.com/t/jodatut/shared_invite/zt-14t10y6w5-atWPEX2hfQ4OYJXPOqSJDw).
