@@ -40,15 +40,14 @@ Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 
 Demokoodi voi olla valmistakin. Mukauta ja kommentoi kuitenkin koodia siten, että se demoaa viikon aikana oppimaasi. Pyri varmistamaan, että koodin tuottamat listaukset ja visualisoinnit ovat oppimipäiväkirjan tarkastajan nähtävissä. Lähdeviittaus on paikallaan myös koodin tapauksessa.
 
-**Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään maanantaina 30. elokuuta 2021 kello 17.** Katso ohjeet palautukseen [harjoitustyöohjeesta](https://infotuni.github.io/joda2021summer/harjoitustyo/#loppuraportti).
+**Palauta viimeistelty oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 13. toukokuuta 2021 kello 17.** Katso ohjeet palautukseen [harjoitustyöohjeesta](https://infotuni.github.io/joda2022/harjoitustyo/#loppuraportti).
 
 ## Pisteytys
 
-Harjoitustyöstä on jaossa yhteensä 18 pistettä. 12 harjoitustyöpistettä vaikuttaa suoraan arvosanaan.
 
-**Harjoitustyön vaiheittaiset toteutukset on palautettava Slackiin viimeistään maanantaina 30.8. kello 17 harjoitustyöhjeen mukaisesti.**
+**Harjoitustyön vaiheittaiset toteutukset on palautettava Slackiin viimeistään perjantaina 29.4. kello 17 harjoitustyöhjeen mukaisesti.**
 
-Ylittävät pisteet korvaavat huonosti menneen kohdan oppimispäiväkirjan arvostelussa, joka muodostuu kolmesta kuuden (6) pisteen kokonaisuudesta (kattavuus ja oikeellisuus, soveltava vastaan luettelomainen, pohdiskelu ja reflektointi).
+Harjoitustyöstä on jaossa yhteensä 18 pistettä. 12 harjoitustyöpistettä vaikuttaa suoraan arvosanaan. Lisäpisteet (> 12) korvaavat huonosti menneen kohdan oppimispäiväkirjan arvostelussa, joka muodostuu kolmesta kuuden (6) pisteen kokonaisuudesta (kattavuus ja oikeellisuus, soveltava vastaan luettelomainen, pohdiskelu ja reflektointi).
 
 ## Arvosana
 
