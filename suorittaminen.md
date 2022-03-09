@@ -3,10 +3,12 @@ layout: default
 title: Suorittaminen / JODA 2022
 ---
 
+<!--
 ### TODO:
 
 * Varmista että kaikki suorittamiseen liittyvät päivämäärät ovat näkyvissä tässä dokumentissa. Nyt puuttuu tieto harjoitustyön vaiheiden päivämäärästä.
 * Tästä dokumentista on syytä tehdä indeksisivu, josta käsin voi helposti siirtyä työstämään opintojakson suoritusvaatimuksia annetun aikataulun mukaisesti.**
+-->
 
 # Suorittaminen
 
