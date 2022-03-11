@@ -30,6 +30,14 @@ Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteel
 
 # Luentorunko
 
+Tulossa:
+
+* Luentoviikko 3: Koneoppimisen periaatteet
+* Luentoviikko 4: Harjoitustyöhön tutustuminen
+* Luentoviikko 5: Vierailuluento
+* Luentoviikko 6: Ohjaamaton koneoppiminen
+* Luentoviikko 7: Visuaalinen analytiikka
+
 <!--
 ## Luento 23.4: Kertaus
 Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa.
@@ -119,7 +127,7 @@ Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/Info
 Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
 -->
 
-<!--
+
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
@@ -137,21 +145,11 @@ data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/), vrt. Open
 datan ensitarkastelu Pythonilla
 (ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python).
 
-Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento02.ipynb).
+Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento02.ipynb).
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/InfoTUNI/2021/blob/master/koodiesimerkit/Session%202%20-%20Crawlers%20and%20Scrapers.ipynb).
--->
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
-
-Tulossa:
-
-* Luentoviikko 2: Datan kerääminen ja jalostaminen
-* Luentoviikko 3: Koneoppimisen periaatteet
-* Luentoviikko 4: Harjoitustyöhön tutustuminen
-* Luentoviikko 5: Vierailuluento
-* Luentoviikko 6: Ohjaamaton koneoppiminen
-* Luentoviikko 7: Visuaalinen analytiikka
 
 
 <!-- Toiseen teknologiademoon pääsee [tästä]. -->
