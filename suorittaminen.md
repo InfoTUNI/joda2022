@@ -26,9 +26,13 @@ Tiivis ohje oppimispäiväkirjan kirjoittamiseen:
 4. Listaa yhdestä kolmeen kehityskohdetta tai flippausvinkkiä luentoviikolle.
 5. Kokoa noin kymmenen koodirivin demo viikon aikana oppimastasi. 
 
+Määrittele ensimmäisen viikon oppimispäiväkirjassasi **keskeiset oppimistavoitteesi**. 
+
+Päätä oppimispäiväkirja **yhteenvetoon**, jossa arvioit oppimistasi suhteeessa oppimistavoitteisiin.
+
 Oppimispäiväkirja karttuu noin yhdellä-kahdella A4-sivulla viikossa.
 
-Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook) ja jaat sen esimerkiksi Githubissa, [Tampereen yliopiston Gitlabissa](https://course-gitlab.tuni.fi/) tai suoraan Google Colabissa.
+Perusta oppimispäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä. Parhaassa tapauksessa toteutat oppimispäiväkirjan Jupyter-työkirjana (notebook) ja jaat sen esimerkiksi Githubissa, Gitlabissa tai esimerkiksi Google Colabissa.
 
 **Kerro [oppimispäiväkirjan osoite Moodlessa](https://moodle.tuni.fi/mod/assign/view.php?id=1628545) viimeistään tiistaina 12. huhtikuuta kello 17.**
 
