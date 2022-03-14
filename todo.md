@@ -23,6 +23,15 @@ Datasets:
 
 Demos:
 
+Lecture 1: 
+
+Very first ML demo for the first lecture:
+
+* This can double as a template for upcoming ML assignments
+* Perhaps a classifier (clustering-based, therefore allowing intuitive exploration phase) might be a good candidate
+* One option would be to classify StackOverflow messages
+ 
+
 * Python module: JODA datasets 
 
 * Template notebook for a simple classifier/prediction
