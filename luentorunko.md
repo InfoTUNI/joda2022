@@ -37,6 +37,7 @@ Tulossa:
 * Luentoviikko 5: Vierailuluento
 * Luentoviikko 6: Ohjaamaton koneoppiminen
 * Luentoviikko 7: Visuaalinen analytiikka
+ 	
 
 <!--
 ## Luento 23.4: Kertaus
@@ -129,6 +130,9 @@ Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](http
 
 
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
+
+**Lue ennen luentoa:** Berinato, S. (2019). [Data Science and the Art of Persuasion](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_campaign=hbr&utm_medium=social&utm_source=twitter). Harvard Business Review. 
+
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
