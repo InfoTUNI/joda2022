@@ -39,11 +39,12 @@ Tulossa:
 * Luentoviikko 7: Visuaalinen analytiikka
 
 Esilukemisto: 
- 
-* Luentoviikko 7: Lue [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).</dd>
-* Luentoviikko 6: Lue [Managing Known And Unknown Unknowns](https://www.forbes.com/sites/forbesbooksauthors/2021/06/21/managing-known-and-unknown-unknowns/). 
+
+* Luentoviikko 3: Lue Huhtamäki & Laaksonen (2017). [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/). Rajapinta.co.
 * Luentoviikko 4: Käy läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb)
-* Luentoviikko 3: Lue [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
+* Luentoviikko 5: Haussa
+* Luentoviikko 6: Lue Padgett (2021). [Managing Known And Unknown Unknowns](https://www.forbes.com/sites/forbesbooksauthors/2021/06/21/managing-known-and-unknown-unknowns/). Forbes.
+* Luentoviikko 7: Lue Davenport & Kudyba (2016. [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457).  ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).</dd>
 
 <!-- Jatkossa Luentoviikko 2: [I love Pandas, or how to generate profile reports from data](https://www.cloud1.fi/en/blog/i-love-pandas-0)
 
@@ -141,8 +142,7 @@ Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](http
 
 ## Luentoviikko 2: Datan kerääminen ja jalostaminen
 
-**Lue ennen luentoa:** Berinato, S. (2019). [Data Science and the Art of Persuasion](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_campaign=hbr&utm_medium=social&utm_source=twitter). Harvard Business Review. 
-
+**Lue ennen luentoa:** Berinato (2019). [Data Science and the Art of Persuasion](https://hbr.org/2019/01/data-science-and-the-art-of-persuasion?utm_campaign=hbr&utm_medium=social&utm_source=twitter). Harvard Business Review. 
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),
 kerääminen ja jalostaminen [datatieteen metrokartassa](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/),
@@ -157,7 +157,7 @@ API-ohjelmointi ([How to use an API with Python](https://rapidapi.com/blog/how-t
 dataformaatit ja niiden ohjelmallinen käsittely,
 data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/), vrt. OpenRefine),
 datan ensitarkastelu Pythonilla
-(ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python).
+(ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)).
 
 Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento02.ipynb).
 
