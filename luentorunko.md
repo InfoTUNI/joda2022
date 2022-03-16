@@ -37,8 +37,18 @@ Tulossa:
 * Luentoviikko 5: Vierailuluento
 * Luentoviikko 6: Ohjaamaton koneoppiminen
 * Luentoviikko 7: Visuaalinen analytiikka
- 	
 
+Esilukemisto: 
+ 
+* Luentoviikko 7: Lue [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).</dd>
+* Luentoviikko 6: Lue [Managing Known And Unknown Unknowns](https://www.forbes.com/sites/forbesbooksauthors/2021/06/21/managing-known-and-unknown-unknowns/). 
+* Luentoviikko 4: Käy läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb)
+* Luentoviikko 3: Lue [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
+
+<!-- Jatkossa Luentoviikko 2: [I love Pandas, or how to generate profile reports from data](https://www.cloud1.fi/en/blog/i-love-pandas-0)
+
+--> 
+ 
 <!--
 ## Luento 23.4: Kertaus
 Kerrataan luentojen ja harjoitusten keskeiset osat ja verrataan opittua oppimistavoitteisiin. Esitetään hyviä kysymyksiä ja katsotaan mihin tästä voi jatkaa.
@@ -62,7 +72,7 @@ Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta]
 
 Viimeisellä luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
-Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento07.ipynb).
+Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento07.ipynb).
 -->
 <!--
 [Koodiklinikalla](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%206%20-%20Data%20Visualization.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
@@ -80,7 +90,7 @@ Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images
 ryvästäminen (ks. [k-means-clustering](https://www.analyticsvidhya.com/blog/2020/12/a-detailed-introduction-to-k-means-clustering-in-python/)),
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
-Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento06.ipynb).
+Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda20222022/blob/master/luentomuistio/luento06.ipynb).
 -->
 <!--
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).-->
@@ -91,24 +101,24 @@ Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/joda
 Solitan Data engineer ja tietojohtamisen alumni Teemu Mikkonen vieraili puhumassa luonnolisen kielen analyysistä ja kertoi samalla työtehtävistään Solitan datayksikössä. Solitan Timo Lehtonen oli mukana keskustelemassa arjesta datatieteen maailmassa.
 
 Vierailuluennon [Jupyter-työkirja on saatavilla verkossa](https://github.com/TeemuMikkonen/JODA-NLP).
-Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
+Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
 -->
 
 <!--
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
-Käy ennen luentoa läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb).
+Käy ennen luentoa läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb).
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
 Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://InfoTUNI/joda2021summer/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://InfoTUNI/joda2022/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
-Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
+Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
 Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
 
-Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento04.ipynb).
+Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento04.ipynb).
 
-Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
+Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
 -->
 
 <!--
@@ -123,9 +133,9 @@ piirteiden jalostaminen (ks.
 [feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
 luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/))
 
-Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2021summer/blob/master/luentomuistio/luento03.ipynb).
+Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento03.ipynb).
 
-Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/InfoTUNI/joda2021summer/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
+Koodiklinikalla käsittelyssä [luokitteluun perustuva lainankäsittelijä](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%203%20-%20Loan%20Status%20Prediction.ipynb).
 -->
 
 
