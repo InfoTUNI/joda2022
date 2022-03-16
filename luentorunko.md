@@ -40,15 +40,13 @@ Tulossa:
 
 Esilukemisto: 
 
+<!-- Jatkossa Luentoviikko 2: [I love Pandas, or how to generate profile reports from data](https://www.cloud1.fi/en/blog/i-love-pandas-0) --> 
 * Luentoviikko 3: Lue Huhtamäki & Laaksonen (2017). [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/). Rajapinta.co.
 * Luentoviikko 4: Käy läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb)
 * Luentoviikko 5: Haussa
 * Luentoviikko 6: Lue Padgett (2021). [Managing Known And Unknown Unknowns](https://www.forbes.com/sites/forbesbooksauthors/2021/06/21/managing-known-and-unknown-unknowns/). Forbes.
 * Luentoviikko 7: Lue Davenport & Kudyba (2016. [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457).  ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).</dd>
 
-<!-- Jatkossa Luentoviikko 2: [I love Pandas, or how to generate profile reports from data](https://www.cloud1.fi/en/blog/i-love-pandas-0)
-
---> 
  
 <!--
 ## Luento 23.4: Kertaus
