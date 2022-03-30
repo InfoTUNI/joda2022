@@ -111,7 +111,7 @@ Käy ennen luentoa läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
 Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://InfoTUNI/joda2022/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://InfoTUNI.github.io/joda2022/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
 Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
