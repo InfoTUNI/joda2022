@@ -34,8 +34,8 @@ Tulossa:
 
 <!--
 * Luentoviikko 3: Koneoppimisen periaatteet
--->
 * Luentoviikko 4: Harjoitustyöhön tutustuminen
+-->
 * Luentoviikko 5: Vierailuluento
 * Luentoviikko 6: Ohjaamaton koneoppiminen
 * Luentoviikko 7: Visuaalinen analytiikka
@@ -105,14 +105,13 @@ Vierailuluennon [Jupyter-työkirja on saatavilla verkossa](https://github.com/Te
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
 -->
 
-<!--
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
 Käy ennen luentoa läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb).
 
 Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
 Voit valita aiheen ja datalähteen vapaasti.
-Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://InfoTUNI/joda2022/harjoitustyo/) toteutuksesta.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://InfoTUNI.github.io/joda2022/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analysointi.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb) soveltamalla.
 Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöinen projekti.
@@ -120,9 +119,6 @@ Peruslähtökohtana tulee kuitenkin olla ongelman ratkaiseminen, ei datalähtöi
 Neljännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento04.ipynb).
 
 Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamista](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%204%20-%20Categorical%20and%20Missing%20Data.ipynb).
--->
-
-<!-- -->
 
 ## Luentoviikko 3: Koneoppimisen periaatteet
 
