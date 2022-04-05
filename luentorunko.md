@@ -35,8 +35,8 @@ Tulossa:
 <!--
 * Luentoviikko 3: Koneoppimisen periaatteet
 * Luentoviikko 4: Harjoitustyöhön tutustuminen
--->
 * Luentoviikko 5: Vierailuluento
+-->
 * Luentoviikko 6: Ohjaamaton koneoppiminen
 * Luentoviikko 7: Visuaalinen analytiikka
 
