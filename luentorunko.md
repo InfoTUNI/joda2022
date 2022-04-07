@@ -99,10 +99,10 @@ Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/joda
 ## Luentoviikko 5: Vierailuluento luonnollisen kielen analyysistä
 
 Futuricen datainsinööri ja tietojohtamisen alumni Teemu Mikkonen vierailee puhumassa luonnolisen kielen analyysistä ja kertoo samalla työtehtävistään Futuricella. Vierailu toteutetaan verkossa. Kokouksen tiedot Moodlessa.
-
 <!-- Solitan Timo Lehtonen oli mukana keskustelemassa arjesta datatieteen maailmassa.-->
 
-<!--Vierailuluennon [Jupyter-työkirja on saatavilla verkossa](https://github.com/TeemuMikkonen/JODA-NLP).-->
+Vierailuluennon [Jupyter-työkirja on saatavilla verkossa](https://github.com/MikkonenTS/Futurice-Joda).
+
 <!--
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
 -->
