@@ -98,11 +98,11 @@ Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/joda
 
 ## Luentoviikko 5: Vierailuluento luonnollisen kielen analyysistä
 
-Futuricen datainsinööri ja tietojohtamisen alumni Teemu Mikkonen vierailee puhumassa luonnolisen kielen analyysistä ja kertoo samalla työtehtävistään Futuricella. Vierailu toteutetaan verkossa. Kokouksen tiedot Moodlessa.
-
+Futuricen datainsinööri ja tietojohtamisen alumni Teemu Mikkonen vieraili puhumassa luonnolisen kielen analyysistä ja kertoi samalla työtehtävistään Futuricella. Vierailu toteutettiin verkossa. 
 <!-- Solitan Timo Lehtonen oli mukana keskustelemassa arjesta datatieteen maailmassa.-->
 
-<!--Vierailuluennon [Jupyter-työkirja on saatavilla verkossa](https://github.com/TeemuMikkonen/JODA-NLP).-->
+Vierailuluennon [Jupyter-työkirja](https://github.com/MikkonenTS/Futurice-Joda).
+
 <!--
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
 -->
@@ -127,7 +127,8 @@ Koodiklinikalla [syvennytään lineaariregressioon ja jatketaan datan jalostamis
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
 
 Koneoppimisen työnkulku (ks. [Supervised learning workflow](https://en.proft.me/media/science/ml_svlw.jpg)),
-sovellusesimerkki itsenäisesti katsottavaksi: [asiakaspoistuma-analyysi](http://www.louhia.fi/2014/08/27/asiakaspoistuma-analyysi-ja-miljoona-lisamyyntia/),
+sovellusesimerkki itsenäisesti katsottavaksi: 
+[asiakaspoistuma-analyysi](https://bilot.group/articles/asiakaspoistuma-analyysi-ja-miljoona-lisamyyntia/),
 piirteiden erottaminen (ks. [esilukemisto](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)),
 piirteiden jalostaminen (ks.
 [feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
