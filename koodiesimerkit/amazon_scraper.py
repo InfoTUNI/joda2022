@@ -5,7 +5,7 @@ class AmazonScraperSpider(scrapy.Spider):
     name = 'amazon_scraper'
     allowed_domains = ['amazon.com']
     # assing a product-review-page url below
-    start_urls = ['https://www.amazon.com/Apple-iPhone-Verizon-Unlocked-Renewed/product-reviews/B07HYDFX8G/ref=cm_cr_arp_d_viewopt_srt?ie=UTF8&reviewerType=all_reviews&sortBy=helpful&pageNumber=1']
+    start_urls = ['https://www.amazon.com/Nokia-520-Unlocked-Dual-Core-Smartphone/product-reviews/B00D7OOAHA/ref=cm_cr_getr_d_paging_btm_prev_1?ie=UTF8&reviewerType=all_reviews&pageNumber=1']
     
     def parse(self, response):
         review_texts = response.css('.a-size-base.review-text')
