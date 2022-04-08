@@ -103,9 +103,8 @@ Futuricen datainsinööri ja tietojohtamisen alumni Teemu Mikkonen vieraili puhu
 
 Vierailuluennon [Jupyter-työkirja](https://github.com/MikkonenTS/Futurice-Joda).
 
-<!--
-Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).
--->
+
+Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Text%20Processing%20and%20Clustering.ipynb).
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
