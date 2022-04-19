@@ -21,6 +21,12 @@ Datasets:
 * Amazon (scraping)
 * [311 Service Requests Pitt](https://www.kaggle.com/yoghurtpatil/311-service-requests-pitt)
 
+Tutorial: 
+
+* 
+* 
+
+
 Demos:
 
 Lecture 1: 
