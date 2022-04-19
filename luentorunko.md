@@ -36,8 +36,8 @@ Tulossa:
 * Luentoviikko 3: Koneoppimisen periaatteet
 * Luentoviikko 4: Harjoitustyöhön tutustuminen
 * Luentoviikko 5: Vierailuluento
--->
 * Luentoviikko 6: Ohjaamaton koneoppiminen
+-->
 * Luentoviikko 7: Visuaalinen analytiikka
 
 Esilukemisto: 
@@ -45,9 +45,9 @@ Esilukemisto:
 <!-- Jatkossa Luentoviikko 2: [I love Pandas, or how to generate profile reports from data](https://www.cloud1.fi/en/blog/i-love-pandas-0)  -->
 * Luentoviikko 3: Lue Huhtamäki & Laaksonen (2017). [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/). Rajapinta.co.
 * Luentoviikko 4: Käy läpi [Airbnb-esimerkkianalyysi](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/airnbn/python_scikit_airbnb.ipynb)
-* Luentoviikko 5: Haussa
+* Luentoviikko 5: Haussa artikkeli luonnollisen kielen käsittelyn sovelluksista tiedolla johtamisessa.
 * Luentoviikko 6: Lue Padgett (2021). [Managing Known And Unknown Unknowns](https://www.forbes.com/sites/forbesbooksauthors/2021/06/21/managing-known-and-unknown-unknowns/). Forbes.
-* Luentoviikko 7: Lue Davenport & Kudyba (2016. [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457).  ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
+* Luentoviikko 7: Lue Davenport & Kudyba (2016. [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg). Jos haluat rekisteröityä Anaconda.coniin, [päivitys Python-visualisointiekosysteemiin](https://gateway.on24.com/wcc/eh/2336732/lp/3180178/whats-new-in-data-visualization) on katsomisen arvoinen.
 
  
 <!--
@@ -81,18 +81,18 @@ Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/
 
 <!--
 -->
-<!--
+
 ## Luentoviikko 6: Ohjaamaton koneoppiminen
 
 Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
-Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images/dCm55z)),
+Ohjaamaton oppiminen (ks. [unsupervised learning workflow](https://image.slidesharecdn.com/beginwithmachinelearning-170129104229/95/begin-with-machine-learning-55-638.jpg?cb=1485686565)),
 [ostoskorianalyysi](http://pbpython.com/market-basket-analysis.html),
 [verkostoanalyysi](https://github.com/jukkahuhtamaki/demo-twitter-collector/blob/master/README.md) (ks. [Marvel social graph](https://blog.dataiku.com/2015/05/19/marvel-social-graph-analysis)),
 ryvästäminen (ks. [k-means-clustering](https://www.analyticsvidhya.com/blog/2020/12/a-detailed-introduction-to-k-means-clustering-in-python/)),
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
 Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda20222022/blob/master/luentomuistio/luento06.ipynb).
--->
+
 <!--
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).-->
 
@@ -104,7 +104,7 @@ Futuricen datainsinööri ja tietojohtamisen alumni Teemu Mikkonen vieraili puhu
 Vierailuluennon [Jupyter-työkirja](https://github.com/MikkonenTS/Futurice-Joda).
 
 
-Koodiklinikalla tutustutaan [Text Processing and Clustering](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Text%20Processing%20and%20Clustering.ipynb).
+Koodiklinikalla aiheena [Text Processing and Clustering](https://github.com/InfoTUNI/joda2022/blob/master/koodiesimerkit/Session%205%20-%20Text%20Processing%20and%20Clustering.ipynb).
 
 ## Luentoviikko 4: Harjoitustyöhön tutustuminen
 
