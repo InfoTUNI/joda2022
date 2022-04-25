@@ -74,12 +74,10 @@ Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta]
 Viimeisellä luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento07.ipynb).
--->
-<!--
-[Koodiklinikalla](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%206%20-%20Data%20Visualization.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
--->
 
-<!--
+[Koodiklinikalla](https://github.com/jodatut/2022/blob/master/koodiesimerkit/Session%206%20-%20Network%20Visualization%20of%20Association%20Rules.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
+
+
 -->
 
 ## Luentoviikko 6: Ohjaamaton koneoppiminen
