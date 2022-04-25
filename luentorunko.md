@@ -91,7 +91,7 @@ Ohjaamaton oppiminen (ks. [unsupervised learning workflow](https://image.slidesh
 ryvästäminen (ks. [k-means-clustering](https://www.analyticsvidhya.com/blog/2020/12/a-detailed-introduction-to-k-means-clustering-in-python/)),
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
-Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda20222022/blob/master/luentomuistio/luento06.ipynb).
+Kuudennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento06.ipynb).
 
 <!--
 Koodiklinikalla tutustutaan [pääkomponenttianalyysiin](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%205%20-%20Unsupervised%20Learning.ipynb).-->
