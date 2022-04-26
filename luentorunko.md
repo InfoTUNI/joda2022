@@ -30,15 +30,15 @@ Toteutuskerran aikana pyritään myös twiittaamaan aktiivisesti  aihetunnisteel
 
 # Luentorunko
 
-Tulossa:
-
 <!--
+
+Tulossa:
 * Luentoviikko 3: Koneoppimisen periaatteet
 * Luentoviikko 4: Harjoitustyöhön tutustuminen
 * Luentoviikko 5: Vierailuluento
 * Luentoviikko 6: Ohjaamaton koneoppiminen
--->
 * Luentoviikko 7: Visuaalinen analytiikka
+-->
 
 Esilukemisto: 
 
@@ -65,19 +65,21 @@ Pääsiäistauon jälkeen **tiistaina 21. huhtikuuta** on vuorossa JODAn kevää
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2020/blob/master/luentomuistio/luento07.ipynb).
 -->
 
-<!--
+
 ## Luentoviikko 7: Visuaalinen analytiikka
 
-Lue ennen luentoa: [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457) <br/>
-Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
+Lue ennen luentoa [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457). <br/>
+Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg). Jos haluat rekisteröityä Anaconda.coniin, [päivitys Python-visualisointiekosysteemin tilaan](https://gateway.on24.com/wcc/eh/2336732/lp/3180178/whats-new-in-data-visualization) on katsomisen arvoinen.
 
 Viimeisellä luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
 Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/InfoTUNI/joda2022/blob/master/luentomuistio/luento07.ipynb).
 
-[Koodiklinikalla](https://github.com/jodatut/2022/blob/master/koodiesimerkit/Session%206%20-%20Network%20Visualization%20of%20Association%20Rules.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
+<!--
+[Koodiklinikalla](https://github.com/jodatut/2020/blob/master/koodiesimerkit/Session%206%20-%20Data%20Visualization.ipynb) käydään läpi ostoskorianalyysiä ja visuaalista analytiikkaa.
+-->
 
-
+<!--
 -->
 
 ## Luentoviikko 6: Ohjaamaton koneoppiminen
