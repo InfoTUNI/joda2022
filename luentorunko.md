@@ -69,7 +69,7 @@ Seitsemännen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/
 ## Luentoviikko 7: Visuaalinen analytiikka
 
 Lue ennen luentoa [Designing and Developing Analytics-Based Data Products](https://andor.tuni.fi/permalink/358FIN_TAMPO/153crqv/proquest1831862457). <br/>
-Katso ennen luentoa: Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg). Jos haluat rekisteröityä Anaconda.coniin, [päivitys Python-visualisointiekosysteemin tilaan](https://gateway.on24.com/wcc/eh/2336732/lp/3180178/whats-new-in-data-visualization) on katsomisen arvoinen.
+Katso ennen luentoa Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg). Jos haluat rekisteröityä Anaconda.coniin, [päivitys Python-visualisointiekosysteemin tilaan](https://gateway.on24.com/wcc/eh/2336732/lp/3180178/whats-new-in-data-visualization) on katsomisen arvoinen.
 
 Viimeisellä luentokerralla käydään läpi visuaalisen analytiikan ja vuorovaikutteisen eksploratiivisen analytiikan hyödyntämistä datatieteessä. Lisäksi hahmotellaan tiekarttaa kohti datatuotteiden kehittämistä.  
 
